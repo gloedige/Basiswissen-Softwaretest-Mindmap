@@ -8,7 +8,7 @@ Folgende Kaptile sind auf separaten Seiten aufgeführt:
 2 - Grundlagen  
 3 - Testen im SW-Entwicklungslebenszyklus  
 4 - Statischer Test  
-5 - Dynamischer Test
+5 - Dynamischer Test  
 5.1 - Blackbox  
 6 - Testmanagement  
 7 - Testwerkzeuge  
